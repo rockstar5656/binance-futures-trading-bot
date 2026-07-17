@@ -1,8 +1,5 @@
 # Trading Bot — Binance Futures Testnet (USDT-M)
 
-**Submitted for:** Primetrade.ai internship assignment
-**Author:** _[your name]_ · _[your email]_ · _[your GitHub / LinkedIn]_
-
 A structured Python CLI for placing MARKET, LIMIT, and STOP-LIMIT orders on
 Binance Futures Testnet, built with a clean separation between the API
 client, order logic, input validation, and CLI layers — with full
